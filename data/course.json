@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "928fe9df-53b8-c017-b117-95f67a179ba1",
+  "instructors": {
+    "content": [
+      "1f622301-6920-2c5b-e56f-ec70ddca51a0",
+      "34acea31-be99-7513-f7f3-a3e9fd6e80dd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9e4e9014-3a20-63cd-0af2-4f6730d905fe",
+    "website": "4-183-sustainable-design-and-technology-research-workshop-spring-2004"
+  },
+  "course_title": "Sustainable Design and Technology Research Workshop",
+  "hide_download": true,
+  "course_description": "This workshop investigates the current state of sustainability in regards to architecture, from the level of the tectonic detail to the urban environment. Current research and case studies will be investigated, and students will propose their own solutions as part of the final project.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.183",
+  "course_image_thumbnail": {
+    "content": "b25701ad-2e14-2191-30e4-18715dcfe386",
+    "website": "4-183-sustainable-design-and-technology-research-workshop-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Design Assignments with Examples"
+  ],
+  "site_uid": "0d68ef49-6b47-40dd-bebd-60f8adf6b809",
+  "site_short_id": "4.183-spring-2004",
+  "site_url_path": "courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004",
+  "title": "Course Metadata"
+}
